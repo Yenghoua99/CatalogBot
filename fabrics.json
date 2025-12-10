@@ -1,0 +1,4125 @@
+[
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Archer",
+    "Colorway": "Aim",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Archer",
+    "Colorway": "Aloe",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Archer",
+    "Colorway": "Amber",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Archer",
+    "Colorway": "Arctic",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Archer",
+    "Colorway": "Arrow",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Archer",
+    "Colorway": "Biscotti",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Archer",
+    "Colorway": "Cornsilk",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Archer",
+    "Colorway": "Cranberry",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Archer",
+    "Colorway": "Dove",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Archer",
+    "Colorway": "Emerald",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Archer",
+    "Colorway": "Fern",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Archer",
+    "Colorway": "Ice",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Archer",
+    "Colorway": "Knight",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Archer",
+    "Colorway": "Koala",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Archer",
+    "Colorway": "Leaf",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Archer",
+    "Colorway": "Penny",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Archer",
+    "Colorway": "Riptide",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Archer",
+    "Colorway": "Seaside",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Archer",
+    "Colorway": "Spearmint",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Archer",
+    "Colorway": "Woodland",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Ardsley",
+    "Colorway": "Boardwalk",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Ardsley",
+    "Colorway": "Lagoon",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Ardsley",
+    "Colorway": "Noble",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Ascot",
+    "Colorway": "Cascade",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Ascot",
+    "Colorway": "Natural",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Ascot",
+    "Colorway": "Silverado",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "DesignTex",
+    "Pattern Name": "Atria",
+    "Colorway": "Aquitaine",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "DesignTex",
+    "Pattern Name": "Atria",
+    "Colorway": "Graphite",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "DesignTex",
+    "Pattern Name": "Atria",
+    "Colorway": "Paperwhite",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "DesignTex",
+    "Pattern Name": "Atria",
+    "Colorway": "Redstone",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "DesignTex",
+    "Pattern Name": "Atria",
+    "Colorway": "Verde",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Standard Textile",
+    "Pattern Name": "Avenue",
+    "Colorway": "Delft",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Standard Textile",
+    "Pattern Name": "Avenue",
+    "Colorway": "Jubilee",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Standard Textile",
+    "Pattern Name": "Avenue",
+    "Colorway": "Mineral",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Standard Textile",
+    "Pattern Name": "Avenue",
+    "Colorway": "Rosewood",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Standard Textile",
+    "Pattern Name": "Avenue",
+    "Colorway": "Steel",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Barista",
+    "Colorway": "Cattail",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Barista",
+    "Colorway": "Northern Lights",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Barista",
+    "Colorway": "Ocean",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Barista",
+    "Colorway": "Storm",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Barista",
+    "Colorway": "Tornado",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Batik",
+    "Colorway": "Crystal",
+    "Fabric Type": "Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Batik",
+    "Colorway": "Greystone",
+    "Fabric Type": "Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Batik",
+    "Colorway": "Grotto",
+    "Fabric Type": "Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Batik",
+    "Colorway": "Safari",
+    "Fabric Type": "Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Batik",
+    "Colorway": "Seabreeze",
+    "Fabric Type": "Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Batik",
+    "Colorway": "Sprout",
+    "Fabric Type": "Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Baystreet",
+    "Colorway": "Clementine",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Baystreet",
+    "Colorway": "Coastal",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Baystreet",
+    "Colorway": "Driftwood",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Baystreet",
+    "Colorway": "Lake",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Baystreet",
+    "Colorway": "Paradise",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Beeline",
+    "Colorway": "Arctic",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Beeline",
+    "Colorway": "Crystal",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Beeline",
+    "Colorway": "Federal",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Beeline",
+    "Colorway": "Ivy",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Beeline",
+    "Colorway": "Tropic",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "DesignTex",
+    "Pattern Name": "Big Texture",
+    "Colorway": "Belgian Flax",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "DesignTex",
+    "Pattern Name": "Big Texture",
+    "Colorway": "Berry",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "DesignTex",
+    "Pattern Name": "Big Texture",
+    "Colorway": "Seaside",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "DesignTex",
+    "Pattern Name": "Big Texture",
+    "Colorway": "Slate",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "DesignTex",
+    "Pattern Name": "Big Texture",
+    "Colorway": "Sprout",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Cayuga",
+    "Colorway": "Boxwood",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Cayuga",
+    "Colorway": "Fawn",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Cayuga",
+    "Colorway": "Flax",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Cayuga",
+    "Colorway": "HIckory",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Cayuga",
+    "Colorway": "Persimmon",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Cayuga",
+    "Colorway": "Sandalwood",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Cayuga",
+    "Colorway": "Sapphire",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Chunky Tweed",
+    "Colorway": "Grey",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Chunky Tweed",
+    "Colorway": "Medium Blue",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Chunky Tweed",
+    "Colorway": "Off-White",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Chunky Tweed",
+    "Colorway": "Orange",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Chunky Tweed",
+    "Colorway": "Turquoise",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Cinema",
+    "Colorway": "Apricot",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Cinema",
+    "Colorway": "Aquamarine",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Cinema",
+    "Colorway": "Chiffon'",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Cinema",
+    "Colorway": "Cove",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Cinema",
+    "Colorway": "Garnet",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Cinema",
+    "Colorway": "Jungle",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Cinema",
+    "Colorway": "Koala",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Cinema",
+    "Colorway": "Mauve",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Cinema",
+    "Colorway": "Pacific",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Cinema",
+    "Colorway": "Pine",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Cinema",
+    "Colorway": "Pumice",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Cinema",
+    "Colorway": "Royal",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Cinema",
+    "Colorway": "Sage",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Cinema",
+    "Colorway": "Sienna",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Dancing Leaves",
+    "Colorway": "Gold",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Dancing Leaves",
+    "Colorway": "Moonlight",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Dancing Leaves",
+    "Colorway": "Silver",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Decoy",
+    "Colorway": "Citron",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Decoy",
+    "Colorway": "Clay",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Decoy",
+    "Colorway": "Coastal",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Decoy",
+    "Colorway": "Mineral",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Decoy",
+    "Colorway": "Riverstone",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Decoy",
+    "Colorway": "Seaglass",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Dejo",
+    "Colorway": "Butterscotch",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Dejo",
+    "Colorway": "Limonata",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Delfino",
+    "Colorway": "Amber",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Delfino",
+    "Colorway": "Granite",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Delfino",
+    "Colorway": "Sandbar",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Delfino",
+    "Colorway": "Spearmint",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Enroute",
+    "Colorway": "Quartz",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Enroute",
+    "Colorway": "Sea Green",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Equinox",
+    "Colorway": "Cabana",
+    "Fabric Type": "Indoor/Outdoor Bella-Dura",
+    "": "Phased Out"
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Equinox",
+    "Colorway": "Goldenrod",
+    "Fabric Type": "Indoor/Outdoor Bella-Dura",
+    "": "Phased Out"
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Equinox",
+    "Colorway": "Jungle",
+    "Fabric Type": "Indoor/Outdoor Bella-Dura",
+    "": "Phased Out"
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Equinox",
+    "Colorway": "Sedona",
+    "Fabric Type": "Indoor/Outdoor Bella-Dura",
+    "": "Phased Out"
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Equinox",
+    "Colorway": "Tranquil",
+    "Fabric Type": "Indoor/Outdoor Bella-Dura",
+    "": "Phased Out"
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Fenestra Too!",
+    "Colorway": "Cove",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Fenestra Too!",
+    "Colorway": "Mariana",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Fenestra Too!",
+    "Colorway": "Marsh",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Finely",
+    "Colorway": "Bark",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Finely",
+    "Colorway": "Breeze",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Finely",
+    "Colorway": "Cottonwood",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Finely",
+    "Colorway": "Elgin",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Finely",
+    "Colorway": "Heritage",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Finely",
+    "Colorway": "Isle",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Finely",
+    "Colorway": "Legend",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Finely",
+    "Colorway": "Moss",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Finely",
+    "Colorway": "Perth",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Finely",
+    "Colorway": "Sundown",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Finely",
+    "Colorway": "Sunflower",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Finely",
+    "Colorway": "Sycamore",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Glamour",
+    "Colorway": "Atlantic",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Glamour",
+    "Colorway": "Autumn",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Glamour",
+    "Colorway": "Medallion",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Glamour",
+    "Colorway": "Sage",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Glamour",
+    "Colorway": "Smoke",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Guru",
+    "Colorway": "Lotus",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Guru",
+    "Colorway": "Mineral",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Guru",
+    "Colorway": "Skylight",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Guru",
+    "Colorway": "Tidal",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Guru",
+    "Colorway": "Vanilla Bean",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Haiku",
+    "Colorway": "Aquamarine",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Haiku",
+    "Colorway": "Barley",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Haiku",
+    "Colorway": "Cinnabar",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Haiku",
+    "Colorway": "Clay",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Haiku",
+    "Colorway": "Glow",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Haiku",
+    "Colorway": "Seaweed",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Haiku",
+    "Colorway": "Vortex",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Halo",
+    "Colorway": "Carbon",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Halo",
+    "Colorway": "Cranberry",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Halo",
+    "Colorway": "Emerald",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Halo",
+    "Colorway": "Mink",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Halo",
+    "Colorway": "Sapphire",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "DesignTex",
+    "Pattern Name": "Hashtag",
+    "Colorway": "Dandelion",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "DesignTex",
+    "Pattern Name": "Hashtag",
+    "Colorway": "Oak",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "DesignTex",
+    "Pattern Name": "Hashtag",
+    "Colorway": "Pacific",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "DesignTex",
+    "Pattern Name": "Hashtag",
+    "Colorway": "Palm",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "DesignTex",
+    "Pattern Name": "Hashtag",
+    "Colorway": "Rosehip",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Holmes",
+    "Colorway": "Almond",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Holmes",
+    "Colorway": "Arctic",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Holmes",
+    "Colorway": "Carolina",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Holmes",
+    "Colorway": "Cascade",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Holmes",
+    "Colorway": "Festival",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Holmes",
+    "Colorway": "Flamenco",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Holmes",
+    "Colorway": "Jungle",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Holmes",
+    "Colorway": "Lapis",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Holmes",
+    "Colorway": "London Fog",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Holmes",
+    "Colorway": "Marble",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Holmes",
+    "Colorway": "Paradise",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Holmes",
+    "Colorway": "Sky",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Holmes",
+    "Colorway": "Tawny",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Standard Textile",
+    "Pattern Name": "Homage",
+    "Colorway": "Chambray",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Standard Textile",
+    "Pattern Name": "Homage",
+    "Colorway": "Lakeside",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Standard Textile",
+    "Pattern Name": "Homage",
+    "Colorway": "Sage",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Standard Textile",
+    "Pattern Name": "Homage",
+    "Colorway": "Varisty",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Standard Textile",
+    "Pattern Name": "Homage",
+    "Colorway": "Winter",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Ikat",
+    "Colorway": "Beach",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Ikat",
+    "Colorway": "Chartreuse",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Ikat",
+    "Colorway": "Coral",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Ikat",
+    "Colorway": "Marble",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Ikat",
+    "Colorway": "Mirage",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Ikat Field",
+    "Colorway": "Cobblestone",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Ikat Field",
+    "Colorway": "Meadow",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Ikat Field",
+    "Colorway": "Rosewood",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Influential",
+    "Colorway": "Concord",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Influential",
+    "Colorway": "Driftwood",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Influential",
+    "Colorway": "Lively",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Architex",
+    "Pattern Name": "Intersect",
+    "Colorway": "Night",
+    "Fabric Type": "Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Architex",
+    "Pattern Name": "Intersect",
+    "Colorway": "Slate",
+    "Fabric Type": "Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Architex",
+    "Pattern Name": "Intersect",
+    "Colorway": "Sprout",
+    "Fabric Type": "Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Architex",
+    "Pattern Name": "Intersect",
+    "Colorway": "Sunflower",
+    "Fabric Type": "Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Joy",
+    "Colorway": "Beach Glass",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Joy",
+    "Colorway": "Bedrock",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Joy",
+    "Colorway": "Santa Fe",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Joy",
+    "Colorway": "Sunset",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Jukebox",
+    "Colorway": "Beach Glass",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Jukebox",
+    "Colorway": "Bedrock",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Jukebox",
+    "Colorway": "Santa Fe",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Jukebox",
+    "Colorway": "Sunset",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Jump Stone",
+    "Colorway": "Bluestone",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Jump Stone",
+    "Colorway": "Clay",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Jump Stone",
+    "Colorway": "Honey",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Jump Stone",
+    "Colorway": "Linen",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Jump Stone",
+    "Colorway": "Nomad",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Jump Stone",
+    "Colorway": "Sage",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Jump Stone",
+    "Colorway": "Silhouette",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Kapow",
+    "Colorway": "Bang",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Kapow",
+    "Colorway": "Clank",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Kapow",
+    "Colorway": "Clink",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Kapow",
+    "Colorway": "Crack",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Kapow",
+    "Colorway": "Crush",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Kapow",
+    "Colorway": "Kablam",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Kapow",
+    "Colorway": "Kaboom",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Kapow",
+    "Colorway": "Ktang",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Kapow",
+    "Colorway": "Poof",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Kapow",
+    "Colorway": "Pow",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Kapow",
+    "Colorway": "Slurp",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Kapow",
+    "Colorway": "Smash",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Kapow",
+    "Colorway": "Splat",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Kapow",
+    "Colorway": "Sploot",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Kapow",
+    "Colorway": "Swish",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Kapow",
+    "Colorway": "Tap",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Kapow",
+    "Colorway": "Thud",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Kapow",
+    "Colorway": "Thwack",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Kapow",
+    "Colorway": "Whoosh",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Kapow",
+    "Colorway": "Zap",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Kapow",
+    "Colorway": "Zoom",
+    "Fabric Type": "Performance Fabric",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Kin",
+    "Colorway": "Avocado",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Kin",
+    "Colorway": "Coral Red",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Kin",
+    "Colorway": "Mallard",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Kin",
+    "Colorway": "Mason",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Kin",
+    "Colorway": "Patina",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Kisco",
+    "Colorway": "Citron",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Kisco",
+    "Colorway": "Fountain",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Kith",
+    "Colorway": "Avocado",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Kith",
+    "Colorway": "Cobalt",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Kith",
+    "Colorway": "Coral Red",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Kith",
+    "Colorway": "Lilac Gray",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Kith",
+    "Colorway": "Mallard",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Kith",
+    "Colorway": "Patina",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Kith",
+    "Colorway": "Topiary",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Labyrinth",
+    "Colorway": "Aspen",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Labyrinth",
+    "Colorway": "Calypso",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Labyrinth",
+    "Colorway": "Caviar",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Labyrinth",
+    "Colorway": "Cerise",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Labyrinth",
+    "Colorway": "Cornflower",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Labyrinth",
+    "Colorway": "Federal",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Labyrinth",
+    "Colorway": "Frost",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Labyrinth",
+    "Colorway": "Olive",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Labyrinth",
+    "Colorway": "Rosewater",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Labyrinth",
+    "Colorway": "Shearling",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Labyrinth",
+    "Colorway": "Sienna",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Labyrinth",
+    "Colorway": "Stratus",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Laila",
+    "Colorway": "Butterscotch",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Laila",
+    "Colorway": "Lemongrass",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Laila",
+    "Colorway": "Linen Gray",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Lake Placid",
+    "Colorway": "Brick",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Lake Placid",
+    "Colorway": "Dijon",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Lake Placid",
+    "Colorway": "Granite",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Lake Placid",
+    "Colorway": "Multi",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Lake Placid",
+    "Colorway": "Opal",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Lake Placid",
+    "Colorway": "Teal",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Latitude",
+    "Colorway": "Alfresco",
+    "Fabric Type": "Indoor/Outdoor Bella-Dura",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Latitude",
+    "Colorway": "Bistro",
+    "Fabric Type": "Indoor/Outdoor Bella-Dura",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Latitude",
+    "Colorway": "Oasis",
+    "Fabric Type": "Indoor/Outdoor Bella-Dura",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Latitude",
+    "Colorway": "Sediment",
+    "Fabric Type": "Indoor/Outdoor Bella-Dura",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Layer",
+    "Colorway": "Lilac",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "DesignTex",
+    "Pattern Name": "Layer",
+    "Colorway": "New Green",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "DesignTex",
+    "Pattern Name": "Layer",
+    "Colorway": "Peach",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "DesignTex",
+    "Pattern Name": "Layer",
+    "Colorway": "Rain",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "DesignTex",
+    "Pattern Name": "Layer",
+    "Colorway": "Snowy",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Light Point",
+    "Colorway": "Pebble",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Light Point",
+    "Colorway": "Playa",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Madras",
+    "Colorway": "Alfresco",
+    "Fabric Type": "Indoor/Outdoor Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Madras",
+    "Colorway": "Aura",
+    "Fabric Type": "Indoor/Outdoor Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Madras",
+    "Colorway": "Bespoke",
+    "Fabric Type": "Indoor/Outdoor Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Madras",
+    "Colorway": "Electric",
+    "Fabric Type": "Indoor/Outdoor Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Madras",
+    "Colorway": "Gypsum",
+    "Fabric Type": "Indoor/Outdoor Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Madras",
+    "Colorway": "Moroccan",
+    "Fabric Type": "Indoor/Outdoor Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Madras",
+    "Colorway": "Mosaic",
+    "Fabric Type": "Indoor/Outdoor Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Madras",
+    "Colorway": "Picnic",
+    "Fabric Type": "Indoor/Outdoor Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Madras",
+    "Colorway": "Tiramisu",
+    "Fabric Type": "Indoor/Outdoor Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Madras",
+    "Colorway": "Woodland",
+    "Fabric Type": "Indoor/Outdoor Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Mandalay",
+    "Colorway": "Alchemy",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Mandalay",
+    "Colorway": "Aura",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Mandalay",
+    "Colorway": "Bali Brown",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Mandalay",
+    "Colorway": "Cobalt",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Mandalay",
+    "Colorway": "Gypsy Red",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Mandalay",
+    "Colorway": "Moroccan Silver",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Mandalay",
+    "Colorway": "Tahitian",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Marnie",
+    "Colorway": "Goldenrod",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Marnie",
+    "Colorway": "Toffee",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "DesignTex",
+    "Pattern Name": "Measure",
+    "Colorway": "Admiral",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "DesignTex",
+    "Pattern Name": "Measure",
+    "Colorway": "Blueberry Hill",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "DesignTex",
+    "Pattern Name": "Measure",
+    "Colorway": "Casco Bay",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Measure",
+    "Colorway": "Clover",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Measure",
+    "Colorway": "Poppy",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Memento",
+    "Colorway": "Americana",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Memento",
+    "Colorway": "Earl Grey",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Memento",
+    "Colorway": "Heirloom",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Memento",
+    "Colorway": "Stonewashed",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Memento",
+    "Colorway": "Vintage",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Mexico city",
+    "Colorway": "Caramel",
+    "Fabric Type": "crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Mexico city",
+    "Colorway": "Confetti",
+    "Fabric Type": "crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Mexico city",
+    "Colorway": "Denim",
+    "Fabric Type": "crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Mexico city",
+    "Colorway": "Frost",
+    "Fabric Type": "crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Mexico city",
+    "Colorway": "Graphite",
+    "Fabric Type": "crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Mexico city",
+    "Colorway": "Hemp",
+    "Fabric Type": "crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Mexico city",
+    "Colorway": "Latte",
+    "Fabric Type": "crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Mexico city",
+    "Colorway": "Linen",
+    "Fabric Type": "crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Mexico city",
+    "Colorway": "Paprika",
+    "Fabric Type": "crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Mexico city",
+    "Colorway": "Pebble",
+    "Fabric Type": "crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Mexico city",
+    "Colorway": "Pewter",
+    "Fabric Type": "crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Mexico city",
+    "Colorway": "Verde",
+    "Fabric Type": "crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Mezzanine",
+    "Colorway": "Boulder",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Mezzanine",
+    "Colorway": "Breeze",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Mezzanine",
+    "Colorway": "Denim",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Mezzanine",
+    "Colorway": "Ice",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Mezzanine",
+    "Colorway": "Lagoon",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Mezzanine",
+    "Colorway": "Marina",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Mezzanine",
+    "Colorway": "Mesa",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Mezzanine",
+    "Colorway": "Moonlight",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Mezzanine",
+    "Colorway": "Rose",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Mezzanine",
+    "Colorway": "Seal",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Mezzanine",
+    "Colorway": "Shiraz",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Mezzanine",
+    "Colorway": "Taupe",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Morocco-C",
+    "Colorway": "Fjord",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Morocco-C",
+    "Colorway": "Pear",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Morocco-C",
+    "Colorway": "Sesame",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Morocco-C",
+    "Colorway": "Tempo Teal",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Morse Code",
+    "Colorway": "Botanical",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Morse Code",
+    "Colorway": "Vanilla Bean",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Mossi",
+    "Colorway": "Coastal",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Mossi",
+    "Colorway": "Lagoon",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Mossi",
+    "Colorway": "Spring",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Myriad",
+    "Colorway": "Anchor",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Myriad",
+    "Colorway": "Clementine",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Myriad",
+    "Colorway": "Desert Bloom",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Myriad",
+    "Colorway": "Lagoon",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Opus",
+    "Colorway": "Adobe",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Opus",
+    "Colorway": "Aquamarine",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Opus",
+    "Colorway": "Atlantic",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Opus",
+    "Colorway": "Chiffon",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Opus",
+    "Colorway": "Frost",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Parlour",
+    "Colorway": "Biscotti",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Parlour",
+    "Colorway": "Butterscotch",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Parlour",
+    "Colorway": "Cornflower",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Parlour",
+    "Colorway": "Kiwi",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Parlour",
+    "Colorway": "Ruby",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Parlour",
+    "Colorway": "Seabreeze",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Architex",
+    "Pattern Name": "Particle",
+    "Colorway": "Coffee",
+    "Fabric Type": "Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Architex",
+    "Pattern Name": "Particle",
+    "Colorway": "Dew",
+    "Fabric Type": "Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Architex",
+    "Pattern Name": "Particle",
+    "Colorway": "Ink",
+    "Fabric Type": "Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Architex",
+    "Pattern Name": "Particle",
+    "Colorway": "Slate",
+    "Fabric Type": "Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Peaceful",
+    "Colorway": "Dawn",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Peaceful",
+    "Colorway": "Northern Lights",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Peaceful",
+    "Colorway": "Storm",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Peaceful",
+    "Colorway": "Tornado",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Pivot",
+    "Colorway": "Evergreen",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Pivot",
+    "Colorway": "Nautical",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Pivot",
+    "Colorway": "Sangria",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Pivot",
+    "Colorway": "Spiced",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Pivot",
+    "Colorway": "Suede",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Potomac",
+    "Colorway": "Coastal",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Potomac",
+    "Colorway": "Jade",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Potomac",
+    "Colorway": "Sandstone",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Premier",
+    "Colorway": "Cerise",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Premier",
+    "Colorway": "Coronation",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Premier",
+    "Colorway": "Cumin",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Premier",
+    "Colorway": "Dove",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Premier",
+    "Colorway": "Fern",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Premier",
+    "Colorway": "Flaxen",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Premier",
+    "Colorway": "Lapis",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Premier",
+    "Colorway": "Mirage",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Premier",
+    "Colorway": "Nutmeg",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Premier",
+    "Colorway": "Oyster",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Premier",
+    "Colorway": "Polar",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "CF Stinson",
+    "Pattern Name": "Premier",
+    "Colorway": "Surf",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Prep School",
+    "Colorway": "Aquamarine",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Prep School",
+    "Colorway": "Azure",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Prep School",
+    "Colorway": "Boardwalk",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Prep School",
+    "Colorway": "Brick",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Prep School",
+    "Colorway": "Chambray",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Prep School",
+    "Colorway": "Clover",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Prep School",
+    "Colorway": "Dijon",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Prep School",
+    "Colorway": "Ecru",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Prep School",
+    "Colorway": "Flax",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Prep School",
+    "Colorway": "Sculpture",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Prep School",
+    "Colorway": "Truffle",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Pursue",
+    "Colorway": "Bluebell",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Pursue",
+    "Colorway": "Caribbean Skies",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Pursue",
+    "Colorway": "Moonstone",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Pursue",
+    "Colorway": "Storm",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Raffia",
+    "Colorway": "Aloe",
+    "Fabric Type": "Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Raffia",
+    "Colorway": "Amber Glow",
+    "Fabric Type": "Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Raffia",
+    "Colorway": "Aquamarine",
+    "Fabric Type": "Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Raffia",
+    "Colorway": "Burnt Sienna",
+    "Fabric Type": "Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Raffia",
+    "Colorway": "Greyscale",
+    "Fabric Type": "Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Raffia",
+    "Colorway": "Mermaid",
+    "Fabric Type": "Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Raffia",
+    "Colorway": "Sepia",
+    "Fabric Type": "Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Rio",
+    "Colorway": "Bedrock",
+    "Fabric Type": "Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Rio",
+    "Colorway": "Carnival",
+    "Fabric Type": "Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Rio",
+    "Colorway": "Hudson",
+    "Fabric Type": "Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Rio",
+    "Colorway": "Meadow",
+    "Fabric Type": "Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "River Pak",
+    "Colorway": "Butterscotch",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "River Park",
+    "Colorway": "Lagoon",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "River Park",
+    "Colorway": "Meadow",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "River Park",
+    "Colorway": "Nutmeg",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "River Park",
+    "Colorway": "Serenade",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "River Run",
+    "Colorway": "Shadow",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "River Run",
+    "Colorway": "Celestial",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "River Run",
+    "Colorway": "Cinnabar",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "River Run",
+    "Colorway": "Grotto",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "River Run",
+    "Colorway": "Kelp",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "River Run",
+    "Colorway": "Pool",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "River Run",
+    "Colorway": "Quartz",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "River Run",
+    "Colorway": "Saffron",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "River Run",
+    "Colorway": "Wheat",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Roadline",
+    "Colorway": "Berry",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Roadline",
+    "Colorway": "Brown Sugar",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Roadline",
+    "Colorway": "Coastal",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Roadline",
+    "Colorway": "Mulberry",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Spree",
+    "Colorway": "Cerulean",
+    "Fabric Type": "woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Spree",
+    "Colorway": "Cloudy",
+    "Fabric Type": "woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Spree",
+    "Colorway": "Dandelion",
+    "Fabric Type": "woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Spree",
+    "Colorway": "Garland",
+    "Fabric Type": "woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Spree",
+    "Colorway": "Gulf",
+    "Fabric Type": "woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Spree",
+    "Colorway": "Metal",
+    "Fabric Type": "woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Spree",
+    "Colorway": "Nightshade",
+    "Fabric Type": "woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Spree",
+    "Colorway": "Peach",
+    "Fabric Type": "woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Spree",
+    "Colorway": "Shoreline",
+    "Fabric Type": "woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Spree",
+    "Colorway": "Spring",
+    "Fabric Type": "woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Spree",
+    "Colorway": "Sprout",
+    "Fabric Type": "woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Spree",
+    "Colorway": "Ultramarine",
+    "Fabric Type": "woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Steamboat",
+    "Colorway": "Coastal",
+    "Fabric Type": "Silicone/Poly",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Steamboat",
+    "Colorway": "Cognac",
+    "Fabric Type": "Silicone/Poly",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Steamboat",
+    "Colorway": "Cranberry",
+    "Fabric Type": "Silicone/Poly",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Steamboat",
+    "Colorway": "Serenade",
+    "Fabric Type": "Silicone/Poly",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Steamboat",
+    "Colorway": "Woodland",
+    "Fabric Type": "Silicone/Poly",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Street Key",
+    "Colorway": "Ink",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Street Key",
+    "Colorway": "Iron",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Street Key",
+    "Colorway": "Oceana",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Syllabus",
+    "Colorway": "Carrot",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Syllabus",
+    "Colorway": "Cobalt",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Syllabus",
+    "Colorway": "Flax",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Syllabus",
+    "Colorway": "Grass",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Syllabus",
+    "Colorway": "Poppy",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Syllabus",
+    "Colorway": "Rose",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Syllabus",
+    "Colorway": "Salt",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Syllabus",
+    "Colorway": "Sky",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Syllabus",
+    "Colorway": "Spa",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Tabloid",
+    "Colorway": "Aubergine",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Tabloid",
+    "Colorway": "Baltic",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Tabloid",
+    "Colorway": "Cruise",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Tabloid",
+    "Colorway": "Mirage",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Tabloid",
+    "Colorway": "Parchment",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Tagline",
+    "Colorway": "Biscotti",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Tagline",
+    "Colorway": "Carbon",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Tagline",
+    "Colorway": "Dove Grey",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Tagline",
+    "Colorway": "Fawn",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Tagline",
+    "Colorway": "Gravel",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Tartan",
+    "Colorway": "Almond",
+    "Fabric Type": "Polyester",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Tatum",
+    "Colorway": "Amazon",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Tatum",
+    "Colorway": "Berry",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Tatum",
+    "Colorway": "Branch",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Tatum",
+    "Colorway": "Daydream",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Tatum",
+    "Colorway": "Meadow",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Tatum",
+    "Colorway": "Nomad",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Tiepolo",
+    "Colorway": "Citrus",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Tiepolo",
+    "Colorway": "Dragonfly",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Tiepolo",
+    "Colorway": "Sandstone",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Tiepolo",
+    "Colorway": "Spice",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Tiepolo",
+    "Colorway": "Waterfall",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Tweed Multi",
+    "Colorway": "Dark Blue",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Tweed Multi",
+    "Colorway": "Flame",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Tweed Multi",
+    "Colorway": "Green",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Tweed Multi",
+    "Colorway": "Medium Blue",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Tweed Multi",
+    "Colorway": "Medium Grey",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Tweed Multi",
+    "Colorway": "Orange",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Tweed Multi",
+    "Colorway": "Pink",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Tweed Multi",
+    "Colorway": "Tan",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Tweed Multi",
+    "Colorway": "Turquoise",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Ultra Shade",
+    "Colorway": "Linen",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Valet",
+    "Colorway": "Admiral",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Valet",
+    "Colorway": "Aqua",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Valet",
+    "Colorway": "Argyle",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Valet",
+    "Colorway": "Butter Pecan",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Valet",
+    "Colorway": "Palmetto",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Velour",
+    "Colorway": "Capri",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Velour",
+    "Colorway": "Concrete",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Velour",
+    "Colorway": "Coral",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Velour",
+    "Colorway": "Grove",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Velour",
+    "Colorway": "Lapis",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Velour",
+    "Colorway": "Lichen",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Velour",
+    "Colorway": "Maize",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Velour",
+    "Colorway": "Mudslide",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Velour",
+    "Colorway": "Red Velvet",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Velour",
+    "Colorway": "Seaspray",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Velour",
+    "Colorway": "Wheat",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Via",
+    "Colorway": "Aegean",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Via",
+    "Colorway": "Butterscotch",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Via",
+    "Colorway": "Chambray",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Via",
+    "Colorway": "Citronella",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Via",
+    "Colorway": "Creamsicle",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Via",
+    "Colorway": "Eggshell",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Via",
+    "Colorway": "Granite",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Via",
+    "Colorway": "London Fog",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Via",
+    "Colorway": "Palmetto",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Via",
+    "Colorway": "Rouge",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Victory",
+    "Colorway": "Burlap",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Victory",
+    "Colorway": "Cafe Au Lait",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Victory",
+    "Colorway": "Chesapeake",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Victory",
+    "Colorway": "Cornsilk",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Victory",
+    "Colorway": "Driftwood",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Victory",
+    "Colorway": "Lapis",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Victory",
+    "Colorway": "Marvelous",
+    "Fabric Type": "Crypton",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Walkway",
+    "Colorway": "Coral",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Walkway",
+    "Colorway": "Fountain",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Walkway",
+    "Colorway": "Goldenrod",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Walkway",
+    "Colorway": "Oasis",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Kravet",
+    "Pattern Name": "Walkway",
+    "Colorway": "Waterfall",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Wayfarer",
+    "Colorway": "Chantilly",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Wayfarer",
+    "Colorway": "Fruit Punch",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Wayfarer",
+    "Colorway": "Granite",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Wayfarer",
+    "Colorway": "Harvest",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Burch",
+    "Pattern Name": "Wayfarer",
+    "Colorway": "Lagoon",
+    "Fabric Type": "Woven",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Weaver",
+    "Colorway": "Amethyst",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Weaver",
+    "Colorway": "Birch",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Weaver",
+    "Colorway": "Black Currant",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Weaver",
+    "Colorway": "Dandielion",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Weaver",
+    "Colorway": "Juniper",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Weaver",
+    "Colorway": "Pumice",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Weaver",
+    "Colorway": "Quartz",
+    "Fabric Type": "Upholstery",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Window Pane",
+    "Colorway": "Ink Blue",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Window Pane",
+    "Colorway": "Parakeet",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Window Pane",
+    "Colorway": "Port",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Window Pane",
+    "Colorway": "Sand",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Designtex",
+    "Pattern Name": "Window Pane",
+    "Colorway": "Sky",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Aegean",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Aqua",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Baltic",
+    "Fabric Type": "",
+    "": "Being phased out"
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Barley",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Biscuit",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Black Sea",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Boxwood",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Brick",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Butterscotch",
+    "Fabric Type": "",
+    "": "Phased Out"
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Caspian",
+    "Fabric Type": "",
+    "": "Phased Out"
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Cypress",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Denim",
+    "Fabric Type": "",
+    "": "Being phased out"
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Dove",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Fawn",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Frost",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Ginger",
+    "Fabric Type": "",
+    "": "Being phased out"
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Glacier",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Glow",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Grape",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Grey",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Hickory",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Honey",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Latte",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Malachite",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Mineral",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "New Bud",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Onyx",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "",
+    "Pattern Name": "Winston",
+    "Colorway": "Orchid",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Oyster",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Pearl Grey",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Raisin",
+    "Fabric Type": "",
+    "": "Being phased out"
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Rouge",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Saddle",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Seaglass",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Shiraz",
+    "Fabric Type": "",
+    "": "Being phased out"
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Steel",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Stone",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Storm",
+    "Fabric Type": "",
+    "": "Being phased out"
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Winston",
+    "Colorway": "Tuscan Sun",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Witty",
+    "Colorway": "Birch",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Witty",
+    "Colorway": "Biscotti",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Witty",
+    "Colorway": "Buckskin",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Witty",
+    "Colorway": "Calamine",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Witty",
+    "Colorway": "Cedar",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Witty",
+    "Colorway": "Cumulus",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Witty",
+    "Colorway": "Deep Sea",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Witty",
+    "Colorway": "Doe",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Witty",
+    "Colorway": "Driftwood",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Witty",
+    "Colorway": "Imperial",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Witty",
+    "Colorway": "Marine",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Witty",
+    "Colorway": "Mica",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Witty",
+    "Colorway": "Rainforest",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Witty",
+    "Colorway": "Rapids",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Witty",
+    "Colorway": "Seaglass",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Witty",
+    "Colorway": "Slate",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Witty",
+    "Colorway": "Spruce",
+    "Fabric Type": "",
+    "": ""
+  },
+  {
+    "Manufacturer": "Coral",
+    "Pattern Name": "Witty",
+    "Colorway": "Sugar Cookie",
+    "Fabric Type": "",
+    "": ""
+  }
+]

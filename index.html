@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Cat A Log Bot</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app">
+    <!-- HEADER: logo + title row, with dark-mode toggle on the right -->
+    <header class="app-header">
+      <div class="header-left">
+        <img src="image/catalogbot.png" class="bot-logo" alt="Fabric Chat Cat Logo">
+        <div class="header-text">
+          <h1>Cat A Log Bot</h1>
+          <p>Your cozy fabric helper.</p>
+        </div>
+      </div>
+
+      <button id="themeToggle" class="theme-toggle" aria-label="Toggle dark mode">
+        🌙 Dark
+      </button>
+    </header>
+
+    <main class="chat-container">
+      <div id="chatWindow" class="chat-window">
+        <!-- Messages will be added here -->
+      </div>
+
+      <!-- Typing indicator -->
+      <div id="typingIndicator" class="typing-indicator hidden">
+        <div class="typing-dot"></div>
+        <div class="typing-dot"></div>
+        <div class="typing-dot"></div>
+        <span class="typing-text">Cat A Log Bot is thinking… MEOW!</span>
+      </div>
+
+      <!-- Paw divider -->
+      <div class="paw-divider">
+        <span>🐾 🐾 🐾</span>
+      </div>
+
+      <!-- Quick suggestion buttons -->
+      <div class="quick-row">
+        <button class="quick-btn" data-query="Show me all Designtex fabrics">
+          Designtex
+        </button>
+        <button class="quick-btn" data-query="Show me orange fabrics">
+          Orange fabrics
+        </button>
+        <button class="quick-btn" data-query="What is the Tweed Multi fabric?">
+          Tweed Multi
+        </button>
+      </div>
+
+      <div class="chat-input-row">
+        <input
+          id="chatInput"
+          type="text"
+          placeholder="Ask me something… e.g. What is the Tweed Multi fabric?"
+        />
+        <button id="sendBtn">Send</button>
+      </div>
+    </main>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
+
+
+
+
+
